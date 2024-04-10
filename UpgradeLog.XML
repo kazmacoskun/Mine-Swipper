@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="minesweeper">
+</Property><Property Name="Solution File" Value="D:\csh\minesweeper\minesweeper.sln">
+</Property><Property Name="Date" Value="07 Aralık 2006 Perşembe">
+</Property><Property Name="Time" Value="21:15">
+</Property></Properties><Event ErrorLevel="0" Project="minesweeper" Source="minesweeper.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="minesweeper" Source="minesweeper.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="minesweeper.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="minesweeper.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="minesweeper" Source="minesweeper.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

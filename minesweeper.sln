@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minesweeper", "minesweeper.csproj", "{3738A3BF-8BD8-4C07-8DED-C5D5777090FD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "mayýntarlasý", "..\mayýntarlasý\mayýntarlasý.vdproj", "{32210AF9-681B-4503-BB0A-A483C03AE17C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3738A3BF-8BD8-4C07-8DED-C5D5777090FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3738A3BF-8BD8-4C07-8DED-C5D5777090FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3738A3BF-8BD8-4C07-8DED-C5D5777090FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3738A3BF-8BD8-4C07-8DED-C5D5777090FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32210AF9-681B-4503-BB0A-A483C03AE17C}.Debug|Any CPU.ActiveCfg = Debug
+		{32210AF9-681B-4503-BB0A-A483C03AE17C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
